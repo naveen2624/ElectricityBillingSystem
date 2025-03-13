@@ -19,3 +19,4 @@ with the electricity usage data into respective users account. The system then
 calculates the electricity bill for every user and updates the information into 
 their account every month. Users can then view their electricity bill and pay 
 before the month end.
+
